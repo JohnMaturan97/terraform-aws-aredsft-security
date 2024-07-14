@@ -1,4 +1,4 @@
-# Terraform AWS Aredsft Security Module
+# Terraform AWS Redshift Security Module
 
 This Terraform module provisions AWS security configurations specifically tailored for a Redshift database environment, enhancing security and compliance.
 
